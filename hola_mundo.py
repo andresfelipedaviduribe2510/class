@@ -10,3 +10,4 @@ if edad >= 18:
     print("Estas viejo")
 else:
     print("Eres un sol")
+    print("Eres un sol")
